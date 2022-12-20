@@ -87,3 +87,4 @@ def load_view():
 
     if st.button("Analyse de données"): 
         redirect("/login", reload=True)
+        
